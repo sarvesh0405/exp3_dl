@@ -1,1 +1,2 @@
 New Movies
+This text was added originally in Feature branch
